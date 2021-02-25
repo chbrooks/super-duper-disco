@@ -1,0 +1,3 @@
+
+def yay() :
+    print("yay")
